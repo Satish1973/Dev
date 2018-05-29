@@ -8,6 +8,7 @@ public class ClassD {
 		// TODO Auto-generated method stub
 		
 		ClassA aObj = new ClassA(20);
+		//new changes
 //		aObj.strC = "Test";
 
 	}
