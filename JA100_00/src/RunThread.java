@@ -12,7 +12,7 @@ public class RunThread {
         System.out.println("Starting MyThreads");
         t3.start();
         t4.start();
-        System.out.println("MyThreads has been started and modified again");
+        System.out.println("MyThreads has been started and modified again for PRD only");
         
     }
 }
